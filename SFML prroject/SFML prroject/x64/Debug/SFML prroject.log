@@ -1,0 +1,136 @@
+﻿  Source.cpp
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(165,19): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(166,26): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(167,19): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(168,26): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(193,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(198,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(211,42): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(310,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(310,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(313,54): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(314,54): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(340,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(340,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(401,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(480,11): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(488,33): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(493,11): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(496,33): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(501,11): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(504,33): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(511,11): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(514,33): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(629,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(629,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(635,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(635,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(640,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(640,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(645,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(645,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(656,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(656,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(658,21): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(659,25): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(660,21): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(661,25): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(681,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(687,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(692,48): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(284,7): warning C4101: 'arrayRockIsThere': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(296,6): warning C4101: 'indexrocky': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(247,7): warning C4101: 'Nothing': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(250,17): warning C4101: 'hightSoil': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(250,6): warning C4101: 'widthSoil': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(736,7): warning C4101: 'intersectsoilx': unreferenced local variable
+C:\Users\PC.dell\source\repos\SFML prroject\SFML prroject\Source.cpp(620,7): warning C4101: 'bag': unreferenced local variable
+  SFML prroject.vcxproj -> C:\Users\PC.dell\source\repos\SFML prroject\x64\Debug\SFML prroject.exe
